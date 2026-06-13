@@ -1,0 +1,113 @@
+{
+  "version": 2,
+  "dgSpecHash": "PoQhqMnODKM=",
+  "success": true,
+  "projectFilePath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+  "expectedPackageFiles": [
+    "/Users/bini/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.0/microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.data.sqlclient/5.1.5/microsoft.data.sqlclient.5.1.5.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.data.sqlclient.sni.runtime/5.1.1/microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.identity.client/4.56.0/microsoft.identity.client.4.56.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.identity.client.extensions.msal/4.56.0/microsoft.identity.client.extensions.msal.4.56.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.identitymodel.abstractions/8.0.0/microsoft.identitymodel.abstractions.8.0.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.3/microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.identitymodel.logging/8.0.0/microsoft.identitymodel.logging.8.0.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.identitymodel.protocols/7.0.3/microsoft.identitymodel.protocols.7.0.3.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.0.3/microsoft.identitymodel.protocols.openidconnect.7.0.3.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.identitymodel.tokens/8.0.0/microsoft.identitymodel.tokens.8.0.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/Users/bini/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/Users/bini/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/Users/bini/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "/Users/bini/.nuget/packages/system.configuration.configurationmanager/6.0.1/system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "/Users/bini/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/system.identitymodel.tokens.jwt/7.0.3/system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512",
+    "/Users/bini/.nuget/packages/system.io.filesystem.accesscontrol/5.0.0/system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/bini/.nuget/packages/system.runtime.caching/6.0.0/system.runtime.caching.6.0.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/system.security.cryptography.protecteddata/6.0.0/system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/Users/bini/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "'Azure.Identity' 1.10.3 패키지에 알려진 보통 심각도 취약성인 https://github.com/advisories/GHSA-m5vv-6r4h-3vj9이(가) 있습니다.",
+      "projectPath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "'Azure.Identity' 1.10.3 패키지에 알려진 보통 심각도 취약성인 https://github.com/advisories/GHSA-wvxc-855f-jvrv이(가) 있습니다.",
+      "projectPath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "'Microsoft.Identity.Client' 4.56.0 패키지에 알려진 보통 심각도 취약성인 https://github.com/advisories/GHSA-m5vv-6r4h-3vj9이(가) 있습니다.",
+      "projectPath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "'Microsoft.Identity.Client' 4.56.0 패키지에 알려진 낮음 심각도 취약성인 https://github.com/advisories/GHSA-x674-v45j-fwxw이(가) 있습니다.",
+      "projectPath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "'Microsoft.IdentityModel.JsonWebTokens' 7.0.3 패키지에 알려진 보통 심각도 취약성인 https://github.com/advisories/GHSA-59j7-ghrg-fj52이(가) 있습니다.",
+      "projectPath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+      "libraryId": "Microsoft.IdentityModel.JsonWebTokens",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "'System.IdentityModel.Tokens.Jwt' 7.0.3 패키지에 알려진 보통 심각도 취약성인 https://github.com/advisories/GHSA-59j7-ghrg-fj52이(가) 있습니다.",
+      "projectPath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/bini/RiderProjects/Project/SafeVault/SafeVault/SafeVault.csproj",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
